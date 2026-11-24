@@ -1,0 +1,1 @@
+Ito ay sample text file para sa P4 file reading option.\n
