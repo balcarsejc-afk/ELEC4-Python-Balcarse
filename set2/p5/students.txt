@@ -1,8 +1,0 @@
-2026-001|Lara Villanueva|IV-BSIT-A|91.50
-2026-002|Noah Garcia|IV-BSIT-A|88.00
-2026-003|Bea Ramirez|IV-BSIT-A|94.25
-2026-004|Ethan Flores|IV-BSIT-A|79.00
-2026-005|Chloe Dizon|IV-BSIT-A|85.75
-23-LN-4703|Jc Pascua|BSIT|91.00
-23-LN-2345|Matt Zacarias|BSIT|89.00
-23-LN-1234|Henesty De Guzman|BSIT|91.00
